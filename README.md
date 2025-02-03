@@ -37,6 +37,10 @@
 
 ###
 
+<p align="left">Linkedin: (https://www.linkedin.com/in/ahmed-khaled-48a361320)</p>
+
+###
+
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk1ODJmZmxtN2w1a3g3bnF2aHk1dmlnNmIxeXJmcG94NHo3dHpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LATKVrWXmlIKovXkE/giphy.gif"  />
 
 ###
